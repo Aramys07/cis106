@@ -1,6 +1,6 @@
 ---
 name: Aramys Junior Tavarez
-semester: fall 2023
+semester: Fall 2023
 courser: CIS 106 Linux Fundamentals
 ---
 
